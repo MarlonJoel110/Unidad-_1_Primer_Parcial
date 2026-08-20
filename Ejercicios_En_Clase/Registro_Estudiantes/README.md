@@ -1,1 +1,2 @@
-Aquí se adjuntarán los anexos y códigos de Java y C++
+# Análisis Del Problema
+El presente programa solicita al usuario el ingreso de sus datos personales —nombre y edad— junto con tres calificaciones. Tras procesar esta información, el sistema calcula y despliega el promedio final de las notas. Asimismo, realiza la conversión de la edad a los sistemas numéricos decimal, binario y hexadecimal. Finalmente, identifica el carácter inicial del nombre del usuario y expone su valor equivalente en el estándar Unicode bajo estas mismas tres bases numéricas.
