@@ -22,9 +22,10 @@ public class Promedio3Notas {
         
         promedio = (n1+n2+n3)/3;
         
-        System.out.println("Primera nota ingresada: "+n1);
-        System.out.println("Segunda nota ingresada: "+n2);
-        System.out.println("Tercera nota ingresada: "+n3);
+        System.out.println("\n====== Notas Ingresadas ======");
+        System.out.println("Nota1: "+n1);
+        System.out.println("Nota2: "+n2);
+        System.out.println("Nota3: "+n3);
         System.out.println("Su promedio es: "+promedio);
     }
     
