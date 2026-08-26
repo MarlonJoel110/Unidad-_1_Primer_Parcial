@@ -36,7 +36,7 @@ public class MenuCafeteria {
             
             total = cantidad * saldo;
             
-            if(total<10){
+            if(total>10){
                 descuentoT = total *0.90;
                 System.out.println("Descuento del 10%");
                 System.out.println("\nSU TOTAL ES: "+descuentoT);
